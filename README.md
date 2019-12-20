@@ -1,7 +1,7 @@
 # Honours Project 
 Title: "Analysis of DeepHit"
 
-Author: Cheng Andrew
+Author: Cheng, Andrew
 
 ### Description of Code
 
