@@ -1,3 +1,13 @@
+# Honours Project 
+Title: "Analysis of DeepHit"
+
+Author: Cheng Andrew
+
+### Description of Code
+
+See https://github.com/chl8856/DeepHit for original code. This code is modified to run on synthetic data sets generated to test the robustness of the algorithm. 
+
+
 # DeepHit
 Title: "DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks"
 
