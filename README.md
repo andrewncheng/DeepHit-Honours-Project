@@ -5,7 +5,7 @@ Author: Cheng Andrew
 
 ### Description of Code
 
-See https://github.com/chl8856/DeepHit for original code. This code is modified to run on synthetic data sets generated to test the robustness of the algorithm. 
+See https://github.com/chl8856/DeepHit for original code. This code is modified to run on additional synthetic data sets generated to test the robustness of the algorithm. 
 
 
 # DeepHit
