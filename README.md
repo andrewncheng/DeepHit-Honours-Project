@@ -1,4 +1,4 @@
-# Honours Project 
+# Deep Learning Survival Algorithm
 Title: "Analysis of DeepHit"
 
 Author: Cheng, Andrew
